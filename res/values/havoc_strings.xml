@@ -887,5 +887,7 @@
     <string name="pulse_location_navbar">Navbar</string>
     <string name="pulse_location_both">Both</string>
     <string name="pulse_location_both_summary">Lockscreen and Navbar</string>
+    <string name="miui_brightness_title">Miui Brightness Slider</string>
+    <string name="miui_brightness_summary">Enable Miui-Like Brightness Slider</string>
 
 </resources>

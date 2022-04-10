@@ -47,6 +47,12 @@
             android:summary="@string/qs_show_battery_estimate_summary"
             android:defaultValue="true"/>
 
+        <com.havoc.support.preferences.SystemSettingSwitchPreference
+            android:key="brightness_slider_qs_unexpanded"
+            android:title="@string/miui_brightness_title"
+            android:summary="@string/miui_brightness_summary"
+            android:defaultValue="true"/>
+
     </PreferenceCategory>
 
     <PreferenceCategory
